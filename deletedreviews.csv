@@ -1,0 +1,441 @@
+sno	review_text	rating	is_fake	category	predicted_is_fake
+1	Great product, exactly as described.	3	0	Toys	1
+2	Awful experience, avoid at all costs!	3	0	Books	1
+6	Not worth the price, very disappointed.	1	1	Toys	1
+7	Awful experience, avoid at all costs!	2	0	Electronics	1
+8	Not worth the price, very disappointed.	2	1	Electronics	1
+9	Not worth the price, very disappointed.	2	0	Home	1
+15	Awful experience, avoid at all costs!	1	1	Electronics	1
+17	Awful experience, avoid at all costs!	4	1	Toys	1
+18	Not worth the price, very disappointed.	1	1	Electronics	1
+19	Awful experience, avoid at all costs!	5	1	Clothing	1
+20	Highly recommend this, very satisfied!	4	0	Clothing	1
+23	Not worth the price, very disappointed.	1	0	Electronics	1
+25	Awful experience, avoid at all costs!	3	1	Home	1
+26	Highly recommend this, very satisfied!	1	1	Home	1
+28	Not worth the price, very disappointed.	4	1	Toys	1
+29	Highly recommend this, very satisfied!	5	1	Home	1
+31	Great product, exactly as described.	2	0	Toys	1
+35	Awful experience, avoid at all costs!	1	1	Toys	1
+40	Not worth the price, very disappointed.	2	1	Toys	1
+43	Not worth the price, very disappointed.	5	0	Electronics	1
+46	Awful experience, avoid at all costs!	1	0	Home	1
+48	Not worth the price, very disappointed.	5	0	Home	1
+50	Not worth the price, very disappointed.	1	1	Electronics	1
+53	Not worth the price, very disappointed.	2	1	Toys	1
+55	Not worth the price, very disappointed.	3	1	Home	1
+60	Awful experience, avoid at all costs!	4	0	Toys	1
+64	Highly recommend this, very satisfied!	1	0	Home	1
+66	Highly recommend this, very satisfied!	3	0	Clothing	1
+68	Not worth the price, very disappointed.	1	0	Toys	1
+69	Not worth the price, very disappointed.	4	0	Books	1
+71	Not worth the price, very disappointed.	3	1	Toys	1
+75	Not worth the price, very disappointed.	5	1	Toys	1
+76	Great product, exactly as described.	5	1	Books	1
+79	Not worth the price, very disappointed.	4	1	Electronics	1
+80	Not worth the price, very disappointed.	2	0	Home	1
+81	Great product, exactly as described.	3	1	Electronics	1
+85	Great product, exactly as described.	1	1	Home	1
+87	Great product, exactly as described.	2	1	Books	1
+89	Great product, exactly as described.	2	0	Toys	1
+90	Highly recommend this, very satisfied!	1	1	Books	1
+91	Not worth the price, very disappointed.	3	1	Toys	1
+92	Great product, exactly as described.	3	0	Home	1
+93	Great product, exactly as described.	2	0	Clothing	1
+96	Not worth the price, very disappointed.	1	0	Home	1
+97	Awful experience, avoid at all costs!	1	0	Books	1
+98	Highly recommend this, very satisfied!	1	0	Toys	1
+101	Highly recommend this, very satisfied!	2	0	Books	1
+102	Awful experience, avoid at all costs!	3	0	Books	1
+104	Awful experience, avoid at all costs!	2	0	Electronics	1
+105	Awful experience, avoid at all costs!	4	1	Home	1
+109	Awful experience, avoid at all costs!	4	0	Toys	1
+110	Awful experience, avoid at all costs!	2	1	Toys	1
+111	Awful experience, avoid at all costs!	3	1	Clothing	1
+114	Highly recommend this, very satisfied!	2	0	Electronics	1
+115	Not worth the price, very disappointed.	1	1	Toys	1
+122	Awful experience, avoid at all costs!	4	0	Electronics	1
+125	Great product, exactly as described.	1	1	Home	1
+129	Great product, exactly as described.	1	1	Toys	1
+132	Great product, exactly as described.	5	1	Toys	1
+133	Not worth the price, very disappointed.	4	1	Books	1
+136	Highly recommend this, very satisfied!	4	1	Electronics	1
+137	Highly recommend this, very satisfied!	4	0	Clothing	1
+138	Not worth the price, very disappointed.	1	0	Electronics	1
+140	Highly recommend this, very satisfied!	1	0	Clothing	1
+144	Highly recommend this, very satisfied!	3	1	Electronics	1
+147	Highly recommend this, very satisfied!	3	1	Clothing	1
+149	Awful experience, avoid at all costs!	2	0	Electronics	1
+158	Highly recommend this, very satisfied!	3	1	Toys	1
+160	Great product, exactly as described.	2	0	Clothing	1
+161	Awful experience, avoid at all costs!	4	1	Clothing	1
+163	Highly recommend this, very satisfied!	1	1	Toys	1
+164	Awful experience, avoid at all costs!	2	1	Toys	1
+165	Highly recommend this, very satisfied!	4	1	Clothing	1
+167	Highly recommend this, very satisfied!	4	1	Clothing	1
+171	Not worth the price, very disappointed.	5	0	Clothing	1
+175	Great product, exactly as described.	1	0	Clothing	1
+176	Awful experience, avoid at all costs!	1	1	Home	1
+178	Great product, exactly as described.	1	1	Books	1
+180	Great product, exactly as described.	2	0	Clothing	1
+181	Awful experience, avoid at all costs!	1	1	Electronics	1
+182	Great product, exactly as described.	4	0	Electronics	1
+186	Highly recommend this, very satisfied!	4	1	Electronics	1
+194	Not worth the price, very disappointed.	1	0	Clothing	1
+196	Great product, exactly as described.	4	0	Toys	1
+197	Not worth the price, very disappointed.	1	1	Toys	1
+198	Highly recommend this, very satisfied!	5	1	Books	1
+209	Highly recommend this, very satisfied!	1	0	Toys	1
+212	Great product, exactly as described.	3	1	Home	1
+216	Awful experience, avoid at all costs!	5	0	Home	1
+217	Awful experience, avoid at all costs!	4	0	Electronics	1
+221	Awful experience, avoid at all costs!	3	0	Clothing	1
+224	Highly recommend this, very satisfied!	3	1	Electronics	1
+225	Not worth the price, very disappointed.	3	1	Clothing	1
+226	Highly recommend this, very satisfied!	1	0	Books	1
+228	Highly recommend this, very satisfied!	5	0	Toys	1
+232	Great product, exactly as described.	4	0	Books	1
+233	Not worth the price, very disappointed.	3	0	Clothing	1
+235	Awful experience, avoid at all costs!	1	1	Toys	1
+237	Great product, exactly as described.	2	0	Books	1
+238	Awful experience, avoid at all costs!	3	1	Books	1
+243	Great product, exactly as described.	2	1	Home	1
+244	Highly recommend this, very satisfied!	1	1	Clothing	1
+249	Awful experience, avoid at all costs!	5	0	Books	1
+250	Highly recommend this, very satisfied!	5	0	Electronics	1
+252	Not worth the price, very disappointed.	5	1	Toys	1
+255	Highly recommend this, very satisfied!	3	0	Toys	1
+256	Not worth the price, very disappointed.	5	1	Books	1
+257	Not worth the price, very disappointed.	1	0	Electronics	1
+259	Highly recommend this, very satisfied!	1	0	Clothing	1
+261	Great product, exactly as described.	2	1	Books	1
+268	Awful experience, avoid at all costs!	4	0	Clothing	1
+271	Highly recommend this, very satisfied!	4	0	Clothing	1
+272	Awful experience, avoid at all costs!	5	0	Clothing	1
+273	Not worth the price, very disappointed.	3	1	Home	1
+274	Not worth the price, very disappointed.	2	1	Books	1
+277	Great product, exactly as described.	3	1	Clothing	1
+278	Great product, exactly as described.	3	1	Home	1
+282	Great product, exactly as described.	1	0	Electronics	1
+286	Awful experience, avoid at all costs!	5	0	Electronics	1
+288	Not worth the price, very disappointed.	5	0	Clothing	1
+290	Great product, exactly as described.	2	0	Electronics	1
+292	Highly recommend this, very satisfied!	2	1	Electronics	1
+293	Great product, exactly as described.	3	0	Electronics	1
+294	Great product, exactly as described.	2	0	Clothing	1
+296	Not worth the price, very disappointed.	4	1	Electronics	1
+297	Awful experience, avoid at all costs!	2	1	Home	1
+302	Great product, exactly as described.	2	0	Books	1
+303	Awful experience, avoid at all costs!	3	1	Toys	1
+311	Not worth the price, very disappointed.	5	1	Books	1
+313	Not worth the price, very disappointed.	3	0	Electronics	1
+315	Great product, exactly as described.	3	0	Clothing	1
+327	Highly recommend this, very satisfied!	2	0	Electronics	1
+329	Highly recommend this, very satisfied!	5	0	Electronics	1
+333	Great product, exactly as described.	1	1	Toys	1
+334	Great product, exactly as described.	5	1	Electronics	1
+337	Not worth the price, very disappointed.	5	0	Toys	1
+338	Not worth the price, very disappointed.	4	1	Home	1
+341	Not worth the price, very disappointed.	3	0	Books	1
+345	Highly recommend this, very satisfied!	4	0	Home	1
+346	Awful experience, avoid at all costs!	1	0	Books	1
+347	Not worth the price, very disappointed.	2	0	Electronics	1
+348	Great product, exactly as described.	4	1	Books	1
+350	Not worth the price, very disappointed.	4	1	Books	1
+351	Great product, exactly as described.	2	0	Books	1
+352	Highly recommend this, very satisfied!	2	0	Books	1
+353	Not worth the price, very disappointed.	1	0	Electronics	1
+354	Not worth the price, very disappointed.	4	1	Clothing	1
+355	Not worth the price, very disappointed.	2	1	Toys	1
+360	Not worth the price, very disappointed.	1	1	Books	1
+361	Awful experience, avoid at all costs!	3	0	Electronics	1
+363	Awful experience, avoid at all costs!	5	1	Books	1
+365	Not worth the price, very disappointed.	5	0	Home	1
+367	Great product, exactly as described.	1	1	Toys	1
+368	Great product, exactly as described.	5	1	Toys	1
+371	Not worth the price, very disappointed.	1	0	Electronics	1
+372	Awful experience, avoid at all costs!	4	0	Home	1
+376	Awful experience, avoid at all costs!	4	1	Home	1
+377	Not worth the price, very disappointed.	1	0	Toys	1
+378	Awful experience, avoid at all costs!	4	0	Toys	1
+379	Not worth the price, very disappointed.	4	1	Books	1
+381	Awful experience, avoid at all costs!	1	1	Electronics	1
+382	Great product, exactly as described.	2	1	Toys	1
+384	Awful experience, avoid at all costs!	1	0	Toys	1
+386	Great product, exactly as described.	2	0	Electronics	1
+388	Not worth the price, very disappointed.	1	1	Clothing	1
+389	Highly recommend this, very satisfied!	5	0	Electronics	1
+390	Highly recommend this, very satisfied!	1	0	Toys	1
+391	Not worth the price, very disappointed.	4	1	Home	1
+394	Not worth the price, very disappointed.	3	1	Toys	1
+395	Great product, exactly as described.	4	1	Books	1
+398	Not worth the price, very disappointed.	4	0	Electronics	1
+401	Awful experience, avoid at all costs!	4	1	Books	1
+402	Highly recommend this, very satisfied!	1	1	Home	1
+403	Great product, exactly as described.	4	0	Clothing	1
+404	Awful experience, avoid at all costs!	2	0	Books	1
+405	Awful experience, avoid at all costs!	3	0	Books	1
+406	Awful experience, avoid at all costs!	2	1	Clothing	1
+407	Not worth the price, very disappointed.	1	0	Books	1
+411	Great product, exactly as described.	2	0	Home	1
+412	Great product, exactly as described.	3	1	Home	1
+413	Highly recommend this, very satisfied!	2	0	Home	1
+416	Great product, exactly as described.	2	1	Home	1
+417	Not worth the price, very disappointed.	3	0	Books	1
+424	Highly recommend this, very satisfied!	5	1	Home	1
+427	Highly recommend this, very satisfied!	1	1	Toys	1
+429	Not worth the price, very disappointed.	3	1	Home	1
+430	Not worth the price, very disappointed.	3	0	Toys	1
+432	Not worth the price, very disappointed.	4	1	Toys	1
+433	Not worth the price, very disappointed.	3	0	Clothing	1
+436	Awful experience, avoid at all costs!	5	0	Books	1
+439	Not worth the price, very disappointed.	1	0	Toys	1
+440	Highly recommend this, very satisfied!	2	1	Electronics	1
+441	Great product, exactly as described.	1	0	Electronics	1
+442	Awful experience, avoid at all costs!	1	1	Toys	1
+443	Great product, exactly as described.	1	0	Electronics	1
+448	Not worth the price, very disappointed.	3	1	Electronics	1
+450	Highly recommend this, very satisfied!	4	0	Books	1
+452	Awful experience, avoid at all costs!	5	1	Home	1
+458	Not worth the price, very disappointed.	3	1	Books	1
+459	Not worth the price, very disappointed.	4	1	Books	1
+461	Not worth the price, very disappointed.	4	0	Books	1
+465	Highly recommend this, very satisfied!	4	1	Clothing	1
+466	Highly recommend this, very satisfied!	5	1	Toys	1
+468	Highly recommend this, very satisfied!	3	1	Home	1
+470	Great product, exactly as described.	1	1	Toys	1
+478	Highly recommend this, very satisfied!	4	0	Home	1
+480	Highly recommend this, very satisfied!	4	0	Books	1
+482	Not worth the price, very disappointed.	2	1	Toys	1
+484	Awful experience, avoid at all costs!	5	1	Clothing	1
+485	Awful experience, avoid at all costs!	1	0	Books	1
+486	Not worth the price, very disappointed.	4	1	Books	1
+487	Awful experience, avoid at all costs!	1	0	Clothing	1
+488	Highly recommend this, very satisfied!	2	1	Books	1
+489	Highly recommend this, very satisfied!	3	0	Books	1
+491	Awful experience, avoid at all costs!	5	0	Toys	1
+493	Great product, exactly as described.	2	1	Electronics	1
+494	Great product, exactly as described.	1	0	Toys	1
+496	Great product, exactly as described.	4	0	Electronics	1
+498	Great product, exactly as described.	1	1	Toys	1
+505	Great product, exactly as described.	3	1	Books	1
+507	Awful experience, avoid at all costs!	2	0	Books	1
+511	Great product, exactly as described.	4	1	Toys	1
+513	Highly recommend this, very satisfied!	1	0	Home	1
+519	Awful experience, avoid at all costs!	2	1	Books	1
+522	Great product, exactly as described.	2	1	Books	1
+524	Awful experience, avoid at all costs!	5	1	Toys	1
+528	Not worth the price, very disappointed.	5	0	Clothing	1
+532	Great product, exactly as described.	1	1	Electronics	1
+534	Awful experience, avoid at all costs!	4	1	Electronics	1
+536	Awful experience, avoid at all costs!	1	0	Home	1
+540	Awful experience, avoid at all costs!	1	1	Clothing	1
+542	Awful experience, avoid at all costs!	1	1	Toys	1
+545	Awful experience, avoid at all costs!	2	1	Home	1
+546	Great product, exactly as described.	2	1	Home	1
+547	Great product, exactly as described.	3	0	Toys	1
+548	Great product, exactly as described.	1	1	Home	1
+551	Highly recommend this, very satisfied!	2	1	Toys	1
+553	Highly recommend this, very satisfied!	4	1	Toys	1
+554	Awful experience, avoid at all costs!	1	0	Electronics	1
+557	Great product, exactly as described.	4	0	Home	1
+560	Great product, exactly as described.	2	1	Books	1
+566	Not worth the price, very disappointed.	2	0	Electronics	1
+570	Not worth the price, very disappointed.	1	0	Books	1
+574	Not worth the price, very disappointed.	3	1	Toys	1
+576	Not worth the price, very disappointed.	3	0	Toys	1
+577	Awful experience, avoid at all costs!	1	1	Books	1
+579	Not worth the price, very disappointed.	3	1	Books	1
+580	Highly recommend this, very satisfied!	1	1	Home	1
+587	Awful experience, avoid at all costs!	3	0	Clothing	1
+588	Awful experience, avoid at all costs!	2	1	Home	1
+589	Great product, exactly as described.	4	0	Electronics	1
+592	Highly recommend this, very satisfied!	5	0	Electronics	1
+594	Great product, exactly as described.	1	1	Clothing	1
+595	Not worth the price, very disappointed.	4	0	Clothing	1
+597	Highly recommend this, very satisfied!	3	0	Electronics	1
+598	Highly recommend this, very satisfied!	1	1	Toys	1
+599	Highly recommend this, very satisfied!	4	1	Books	1
+605	Not worth the price, very disappointed.	1	0	Electronics	1
+610	Awful experience, avoid at all costs!	4	1	Toys	1
+612	Not worth the price, very disappointed.	5	0	Electronics	1
+613	Not worth the price, very disappointed.	4	0	Electronics	1
+615	Not worth the price, very disappointed.	2	1	Electronics	1
+616	Not worth the price, very disappointed.	4	0	Clothing	1
+619	Highly recommend this, very satisfied!	5	1	Toys	1
+624	Great product, exactly as described.	4	0	Clothing	1
+625	Not worth the price, very disappointed.	4	0	Electronics	1
+628	Highly recommend this, very satisfied!	2	1	Home	1
+629	Awful experience, avoid at all costs!	2	0	Electronics	1
+632	Highly recommend this, very satisfied!	4	1	Books	1
+634	Awful experience, avoid at all costs!	4	0	Clothing	1
+635	Great product, exactly as described.	5	0	Clothing	1
+638	Highly recommend this, very satisfied!	2	0	Books	1
+641	Not worth the price, very disappointed.	2	0	Clothing	1
+648	Awful experience, avoid at all costs!	1	0	Toys	1
+653	Great product, exactly as described.	3	1	Home	1
+656	Great product, exactly as described.	2	0	Toys	1
+661	Awful experience, avoid at all costs!	4	0	Clothing	1
+662	Great product, exactly as described.	3	1	Electronics	1
+664	Highly recommend this, very satisfied!	4	0	Electronics	1
+668	Great product, exactly as described.	4	1	Clothing	1
+670	Not worth the price, very disappointed.	5	1	Home	1
+674	Great product, exactly as described.	5	1	Electronics	1
+677	Awful experience, avoid at all costs!	2	0	Home	1
+678	Great product, exactly as described.	1	1	Books	1
+679	Not worth the price, very disappointed.	3	1	Toys	1
+680	Not worth the price, very disappointed.	4	1	Electronics	1
+681	Awful experience, avoid at all costs!	1	1	Toys	1
+684	Highly recommend this, very satisfied!	5	0	Books	1
+685	Highly recommend this, very satisfied!	2	0	Electronics	1
+686	Not worth the price, very disappointed.	2	0	Books	1
+689	Awful experience, avoid at all costs!	3	1	Toys	1
+692	Not worth the price, very disappointed.	5	1	Electronics	1
+695	Great product, exactly as described.	5	1	Toys	1
+696	Highly recommend this, very satisfied!	2	0	Books	1
+697	Great product, exactly as described.	3	1	Toys	1
+698	Not worth the price, very disappointed.	5	0	Books	1
+700	Great product, exactly as described.	3	0	Books	1
+701	Awful experience, avoid at all costs!	5	1	Clothing	1
+702	Awful experience, avoid at all costs!	2	1	Clothing	1
+705	Not worth the price, very disappointed.	2	1	Electronics	1
+707	Highly recommend this, very satisfied!	4	1	Electronics	1
+708	Not worth the price, very disappointed.	2	1	Books	1
+709	Not worth the price, very disappointed.	3	1	Toys	1
+711	Awful experience, avoid at all costs!	3	1	Electronics	1
+714	Highly recommend this, very satisfied!	1	1	Home	1
+717	Great product, exactly as described.	5	0	Books	1
+719	Great product, exactly as described.	1	1	Electronics	1
+720	Great product, exactly as described.	4	0	Home	1
+722	Awful experience, avoid at all costs!	1	0	Books	1
+723	Highly recommend this, very satisfied!	3	1	Toys	1
+726	Awful experience, avoid at all costs!	2	0	Home	1
+727	Great product, exactly as described.	4	1	Home	1
+730	Awful experience, avoid at all costs!	4	0	Books	1
+734	Highly recommend this, very satisfied!	4	0	Toys	1
+735	Not worth the price, very disappointed.	3	1	Books	1
+736	Highly recommend this, very satisfied!	2	1	Toys	1
+739	Great product, exactly as described.	5	0	Electronics	1
+740	Awful experience, avoid at all costs!	1	0	Electronics	1
+741	Awful experience, avoid at all costs!	3	0	Clothing	1
+743	Highly recommend this, very satisfied!	4	1	Clothing	1
+744	Highly recommend this, very satisfied!	2	1	Clothing	1
+745	Highly recommend this, very satisfied!	4	1	Home	1
+747	Not worth the price, very disappointed.	4	1	Books	1
+748	Awful experience, avoid at all costs!	2	1	Books	1
+750	Not worth the price, very disappointed.	2	1	Books	1
+752	Awful experience, avoid at all costs!	3	0	Clothing	1
+754	Awful experience, avoid at all costs!	2	1	Electronics	1
+757	Awful experience, avoid at all costs!	2	0	Clothing	1
+759	Awful experience, avoid at all costs!	1	0	Books	1
+764	Awful experience, avoid at all costs!	2	0	Home	1
+765	Highly recommend this, very satisfied!	2	1	Electronics	1
+767	Great product, exactly as described.	5	0	Clothing	1
+770	Highly recommend this, very satisfied!	4	1	Electronics	1
+772	Awful experience, avoid at all costs!	5	1	Books	1
+773	Highly recommend this, very satisfied!	3	1	Home	1
+774	Not worth the price, very disappointed.	4	1	Electronics	1
+775	Highly recommend this, very satisfied!	5	1	Clothing	1
+777	Highly recommend this, very satisfied!	2	1	Clothing	1
+779	Not worth the price, very disappointed.	5	1	Clothing	1
+782	Highly recommend this, very satisfied!	3	1	Books	1
+784	Great product, exactly as described.	3	0	Clothing	1
+786	Great product, exactly as described.	4	1	Toys	1
+788	Not worth the price, very disappointed.	5	0	Books	1
+789	Great product, exactly as described.	1	0	Home	1
+793	Great product, exactly as described.	5	0	Books	1
+795	Great product, exactly as described.	1	0	Home	1
+798	Highly recommend this, very satisfied!	4	0	Books	1
+799	Great product, exactly as described.	5	1	Electronics	1
+803	Awful experience, avoid at all costs!	4	1	Toys	1
+804	Awful experience, avoid at all costs!	2	1	Toys	1
+805	Not worth the price, very disappointed.	2	0	Home	1
+807	Awful experience, avoid at all costs!	4	1	Books	1
+808	Great product, exactly as described.	2	0	Clothing	1
+809	Awful experience, avoid at all costs!	4	0	Toys	1
+811	Not worth the price, very disappointed.	1	0	Electronics	1
+814	Highly recommend this, very satisfied!	4	0	Books	1
+818	Awful experience, avoid at all costs!	2	1	Home	1
+820	Great product, exactly as described.	3	0	Electronics	1
+821	Great product, exactly as described.	4	0	Clothing	1
+827	Great product, exactly as described.	4	1	Electronics	1
+828	Great product, exactly as described.	2	1	Toys	1
+829	Great product, exactly as described.	1	0	Home	1
+830	Great product, exactly as described.	5	1	Toys	1
+831	Great product, exactly as described.	4	0	Toys	1
+834	Awful experience, avoid at all costs!	3	1	Clothing	1
+836	Great product, exactly as described.	4	0	Books	1
+837	Great product, exactly as described.	5	1	Books	1
+840	Great product, exactly as described.	3	1	Clothing	1
+841	Great product, exactly as described.	3	1	Home	1
+842	Great product, exactly as described.	4	1	Books	1
+843	Great product, exactly as described.	1	1	Books	1
+844	Highly recommend this, very satisfied!	1	0	Toys	1
+852	Highly recommend this, very satisfied!	5	0	Clothing	1
+854	Not worth the price, very disappointed.	1	1	Toys	1
+855	Awful experience, avoid at all costs!	4	0	Electronics	1
+861	Awful experience, avoid at all costs!	1	0	Home	1
+863	Not worth the price, very disappointed.	2	0	Toys	1
+864	Great product, exactly as described.	3	1	Home	1
+865	Awful experience, avoid at all costs!	4	1	Clothing	1
+866	Awful experience, avoid at all costs!	2	1	Clothing	1
+875	Highly recommend this, very satisfied!	3	0	Electronics	1
+876	Highly recommend this, very satisfied!	2	1	Clothing	1
+878	Highly recommend this, very satisfied!	1	1	Clothing	1
+880	Awful experience, avoid at all costs!	4	0	Books	1
+884	Great product, exactly as described.	2	1	Clothing	1
+888	Awful experience, avoid at all costs!	1	0	Electronics	1
+889	Awful experience, avoid at all costs!	2	0	Clothing	1
+891	Highly recommend this, very satisfied!	1	1	Toys	1
+892	Highly recommend this, very satisfied!	3	1	Books	1
+893	Highly recommend this, very satisfied!	2	0	Toys	1
+895	Great product, exactly as described.	2	1	Books	1
+896	Not worth the price, very disappointed.	4	1	Books	1
+899	Awful experience, avoid at all costs!	3	0	Home	1
+902	Great product, exactly as described.	5	0	Books	1
+905	Not worth the price, very disappointed.	1	0	Home	1
+909	Awful experience, avoid at all costs!	2	0	Books	1
+911	Not worth the price, very disappointed.	3	1	Toys	1
+915	Not worth the price, very disappointed.	1	1	Electronics	1
+916	Awful experience, avoid at all costs!	1	1	Home	1
+920	Great product, exactly as described.	4	1	Toys	1
+921	Awful experience, avoid at all costs!	4	1	Clothing	1
+922	Great product, exactly as described.	1	0	Home	1
+927	Awful experience, avoid at all costs!	4	1	Home	1
+928	Great product, exactly as described.	4	0	Books	1
+929	Awful experience, avoid at all costs!	4	1	Clothing	1
+931	Awful experience, avoid at all costs!	4	1	Electronics	1
+932	Great product, exactly as described.	5	0	Books	1
+933	Great product, exactly as described.	4	0	Electronics	1
+935	Great product, exactly as described.	1	1	Books	1
+936	Highly recommend this, very satisfied!	5	1	Home	1
+943	Great product, exactly as described.	5	1	Books	1
+945	Highly recommend this, very satisfied!	4	1	Home	1
+946	Not worth the price, very disappointed.	1	0	Toys	1
+947	Not worth the price, very disappointed.	1	1	Clothing	1
+949	Great product, exactly as described.	2	0	Clothing	1
+950	Highly recommend this, very satisfied!	4	1	Home	1
+952	Highly recommend this, very satisfied!	3	1	Books	1
+953	Awful experience, avoid at all costs!	4	0	Toys	1
+955	Not worth the price, very disappointed.	3	0	Home	1
+957	Not worth the price, very disappointed.	2	1	Toys	1
+961	Highly recommend this, very satisfied!	2	0	Clothing	1
+964	Highly recommend this, very satisfied!	4	0	Toys	1
+965	Not worth the price, very disappointed.	5	1	Home	1
+969	Great product, exactly as described.	2	1	Electronics	1
+970	Not worth the price, very disappointed.	1	1	Home	1
+973	Awful experience, avoid at all costs!	1	1	Toys	1
+976	Not worth the price, very disappointed.	1	0	Clothing	1
+981	Highly recommend this, very satisfied!	3	0	Electronics	1
+982	Great product, exactly as described.	3	0	Electronics	1
+983	Awful experience, avoid at all costs!	1	1	Toys	1
+985	Awful experience, avoid at all costs!	2	0	Toys	1
+986	Highly recommend this, very satisfied!	4	1	Books	1
+989	Not worth the price, very disappointed.	4	0	Electronics	1
+990	Awful experience, avoid at all costs!	4	0	Electronics	1
+991	Great product, exactly as described.	5	1	Toys	1
+995	Not worth the price, very disappointed.	1	1	Home	1
+997	Highly recommend this, very satisfied!	4	1	Home	1
+998	Awful experience, avoid at all costs!	4	1	Electronics	1
+999	Great product, exactly as described.	4	1	Clothing	1
+1000	Great product, exactly as described.	4	0	Home	1
